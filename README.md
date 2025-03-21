@@ -14,6 +14,6 @@ You can click the Preview link to take a look at your changes.
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AbdulboisNigmatjonov17&layout=compact&theme=tokyonight)
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=AbdulboisNigmatjonov17&bg_color=0d1117&color=00aaff&line=0077ff&point=66ccff&area=true)
 
-<div>
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AbdulboisNigmatjonov17)]
+<div style="width: 100%; display: flex; justify-content: space-between;">
+  ![Visitor Count](https://profile-counter.glitch.me/AbdulboisNigmatjonov17/count.svg)
 </div>
