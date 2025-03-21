@@ -19,5 +19,4 @@ You can click the Preview link to take a look at your changes.
 <a href="https://www.instagram.com/abdulbois_707" target="_blank">
   <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />
 </a>
-
-[![Telegram Badge](https://img.shields.io/badge/Telegram-%232CA5E0.svg?&style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/AbdulboisNigmatjonov17)
+[![Telegram Badge](https://img.shields.io/badge/Telegram-%232CA5E0.svg?&style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/CostaRICO_11)
