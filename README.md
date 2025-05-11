@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning frontend
 - 💞️ I’m looking to collaborate with Astrum
 - 📫 How to reach me <a href='https://t.me/CostaRICO_11'>my tg account</a>
-- ⚡ Fun fact: I am going to learn react-native
+- ⚡ Fun fact: I am going to learn something more
 
 ![Visitor Count](https://profile-counter.glitch.me/AbdulboisNigmatjonov17/count.svg)
 
