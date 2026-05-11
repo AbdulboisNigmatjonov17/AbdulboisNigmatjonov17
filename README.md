@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @AbdulboisNigmatjonov17
 - 👀 I’m interested in web developer
 - 🌱 I’m currently learning frontend
-- 📫 How to reach me <a href='https://t.me/Abdulbois_Nigmatjonov'>my tg account</a>
+- 📫 How to reach me <a href='https://t.me/Abdulbois_Nigmatjonov'>my telegram account</a>
 
 <a href="https://www.instagram.com/abdulbois_707" target="_blank">
   <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />
