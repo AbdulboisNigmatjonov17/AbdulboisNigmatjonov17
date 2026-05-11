@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @AbdulboisNigmatjonov17
 - 👀 I’m interested in web developer
-- 🌱 I’m currently learning frontend
 - 📫 How to reach me <a href='https://t.me/Abdulbois_Nigmatjonov'>my telegram account</a>
 
 <a href="https://www.instagram.com/abdulbois_707" target="_blank">
